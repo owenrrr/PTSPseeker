@@ -29,6 +29,8 @@ bash update.sh
 ## Demo
 - Simple Usage
 ![p1](img/p1.png)
+
+
 - Update Progress
 ![p2](img/p2.png)
 
