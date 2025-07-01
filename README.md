@@ -4,9 +4,11 @@ PTSP stands for PenTest ScriPts. It's used for searching a variety of pentest sc
 ## Basic Usage
 
 ```bash
+# Method 1
 chmod +x seeker.sh
 ./seeker.sh
 
+# Method 2
 bash seeker.sh
 ```
 
@@ -16,9 +18,11 @@ PTSPSeeker accepts users to customize the script and database. If you want to ad
 You can just simply run update.sh and it'll automaticlly detect files under database folder and modifies seeker.db file.
 
 ```bash
+# Method 1
 chmod +x update.sh
 ./update.sh
 
+# Method 2
 bash update.sh
 ```
 
